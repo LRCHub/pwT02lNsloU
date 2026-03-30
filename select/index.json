@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "体育館ディスコ",
   "base_artist": "≒JOY",
-  "createdAt": "2026-03-27T13:15:44.643376Z",
+  "createdAt": "2026-03-30T04:15:06.654323Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -19,7 +19,7 @@
       "artist": "≒JOY",
       "has_synced": false,
       "path": "select/localdb_01_体育館ディスコ_≒JOY.txt",
-      "repo_name": "wZIUh3eyw3Y"
+      "repo_name": "pwT02lNsloU"
     },
     {
       "id": "localdb_2",
@@ -28,7 +28,7 @@
       "artist": "≒JOY",
       "has_synced": false,
       "path": "select/localdb_02_体育館ディスコ_≒JOY.txt",
-      "repo_name": "pwT02lNsloU"
+      "repo_name": "wZIUh3eyw3Y"
     }
   ]
 }
